@@ -74,7 +74,7 @@ main {
 
 .shop {
   display: flex;
-  width: 100%;
+  width: 80%;
   /* height: 303px; */
   flex-wrap: wrap;
   justify-content: center;
@@ -211,8 +211,9 @@ footer a {
   }
 
   .shop {
-    width: 400px;
+    width: 100%;
     justify-content: flex-start;
+    margin-left: 0;
 
   }
 
