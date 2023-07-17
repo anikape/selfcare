@@ -78,6 +78,7 @@ main {
   /* height: 303px; */
   flex-wrap: wrap;
   justify-content: center;
+  margin-left: 180px;
 
 
 }
@@ -131,7 +132,7 @@ footer {
   border-top: 1px solid #A5A1A1;
   padding-top: 50px;
   border-bottom: 1px solid #A5A1A1;
-  
+
 }
 
 footer nav ul li {
@@ -196,12 +197,12 @@ footer a {
 
 @media (max-width: 768px) {
 
-  header div{
-   margin-left: 5px;
+  header div {
+    margin-left: 5px;
   }
 
-  .offer{
-    height:275px;
+  .offer {
+    height: 275px;
   }
 
   .offer img {
@@ -209,61 +210,55 @@ footer a {
     height: 91.925px;
   }
 
-  .shop{
+  .shop {
     width: 800px;
     justify-content: flex-start;
-    
+
   }
 
-  .shop img{
+  .shop img {
     width: 126.443px;
     height: 126.443px;
-    
-    
+
+
   }
 
-  footer a{
+  footer a {
     font-size: 14px;
   }
- 
 
-  .footer1{
+
+  .footer1 {
     flex-direction: column;
     height: auto;
-    padding-top:10px;
+    padding-top: 10px;
     margin-left: 10px;
     border-bottom: none;
   }
 
-  .news{
-    
+  .news {
+
     margin-top: 10px;
-  
-    
+
+
   }
 
-  .news h3{
+  .news h3 {
     font-size: 16px;
   }
 
-  .news input{
+  .news input {
     width: 246px;
     height: 43px;
     margin-bottom: 10px;
     width: 90%
   }
 
-  .news button{
+  .news button {
     width: 90%
   }
 
- 
- 
 
-}
 
-@media (min-width: 1024px) {
-  .shop{
-    justify-content: space-around;
-  }
+
 }
