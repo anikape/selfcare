@@ -258,12 +258,12 @@ footer a {
   }
 
  
-  /* .social img{
-    width: 50px;
-    
-  } */
+ 
 
+}
 
-  
-
+@media (min-width: 1024px) {
+  .shop{
+    justify-content: space-around;
+  }
 }
