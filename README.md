@@ -10,5 +10,5 @@ Figma
 
 Para conferir o projeto acesse o link abaixo.
 
-<a href='https://anikape.github.io/selfcare/" target="_black">Sefcare</a>
+<a href="https://anikape.github.io/selfcare/" target="_black">Sefcare</a>
 
